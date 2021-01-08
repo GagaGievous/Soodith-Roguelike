@@ -120,7 +120,7 @@ cadaver = Item(
     char='c',
     color=(238, 122, 109),
     name='Cadaver',
-    consumable=consumable.CadaverConsumable(amount=1),
+    consumable=consumable.CadaverConsumable(amount=5),
 )
 
 paralyze_fungus = Item(
